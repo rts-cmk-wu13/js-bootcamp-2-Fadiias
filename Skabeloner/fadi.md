@@ -1,0 +1,1 @@
+- Jeg synse at de her opgaver er ok og lidt svært, men jeg kan lige meget den her metod for at, struktur med JS nemt way. jeg lærer hurtig med små JS tricks. 
